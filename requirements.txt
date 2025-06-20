@@ -1,0 +1,5 @@
+psycopg2
+sqlalchemy
+notebook
+python-dotenv==1.1.0
+
