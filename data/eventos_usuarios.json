@@ -1,0 +1,758 @@
+[
+  {
+    "event_time": "2025-06-01T09:00:00Z",
+    "user_id": 113,
+    "session_id": "sess-007",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 6,
+        "name": "Capa de Tablet",
+        "category": "Accessories",
+        "price": 99.9
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:05:00Z",
+    "user_id": 105,
+    "session_id": "sess-013",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 15,
+        "name": "Pen Drive",
+        "category": "Storage",
+        "price": 59.9
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Porto Alegre"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:10:00Z",
+    "user_id": 101,
+    "session_id": "sess-010",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 8,
+        "name": "Drone Z",
+        "category": "Drones",
+        "price": 4500.0
+      },
+      {
+        "id": 15,
+        "name": "Pen Drive",
+        "category": "Storage",
+        "price": 59.9
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:15:00Z",
+    "user_id": 102,
+    "session_id": "sess-014",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 6,
+        "name": "Capa de Tablet",
+        "category": "Accessories",
+        "price": 99.9
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:20:00Z",
+    "user_id": 124,
+    "session_id": "sess-002",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 13,
+        "name": "Mouse Gamer",
+        "category": "Accessories",
+        "price": 249.0
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Rio de Janeiro"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:25:00Z",
+    "user_id": 125,
+    "session_id": "sess-005",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 9,
+        "name": "Console G",
+        "category": "Gaming",
+        "price": 2800.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Recife"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:30:00Z",
+    "user_id": 128,
+    "session_id": "sess-007",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone A",
+        "category": "Electronics",
+        "price": 1200.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "Android"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:35:00Z",
+    "user_id": 101,
+    "session_id": "sess-002",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 11,
+        "name": "Monitor LED",
+        "category": "Computers",
+        "price": 899.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:40:00Z",
+    "user_id": 122,
+    "session_id": "sess-008",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 11,
+        "name": "Monitor LED",
+        "category": "Computers",
+        "price": 899.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:45:00Z",
+    "user_id": 113,
+    "session_id": "sess-010",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 14,
+        "name": "HD Externo",
+        "category": "Storage",
+        "price": 399.0
+      },
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      },
+      {
+        "id": 9,
+        "name": "Console G",
+        "category": "Gaming",
+        "price": 2800.0
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:50:00Z",
+    "user_id": 106,
+    "session_id": "sess-005",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 15,
+        "name": "Pen Drive",
+        "category": "Storage",
+        "price": 59.9
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T09:55:00Z",
+    "user_id": 107,
+    "session_id": "sess-004",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Florianópolis"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:00:00Z",
+    "user_id": 116,
+    "session_id": "sess-011",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 13,
+        "name": "Mouse Gamer",
+        "category": "Accessories",
+        "price": 249.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "iOS"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:05:00Z",
+    "user_id": 112,
+    "session_id": "sess-003",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 9,
+        "name": "Console G",
+        "category": "Gaming",
+        "price": 2800.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:10:00Z",
+    "user_id": 108,
+    "session_id": "sess-012",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 13,
+        "name": "Mouse Gamer",
+        "category": "Accessories",
+        "price": 249.0
+      }
+    ],
+    "device": {
+      "type": "tablet",
+      "os": "Android"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Rio de Janeiro"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:15:00Z",
+    "user_id": 101,
+    "session_id": "sess-015",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 5,
+        "name": "Tablet Z",
+        "category": "Electronics",
+        "price": 1800.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Linux"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Porto Alegre"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:20:00Z",
+    "user_id": 101,
+    "session_id": "sess-013",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 7,
+        "name": "Camera X",
+        "category": "Photography",
+        "price": 2999.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:25:00Z",
+    "user_id": 118,
+    "session_id": "sess-007",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      },
+      {
+        "id": 9,
+        "name": "Console G",
+        "category": "Gaming",
+        "price": 2800.0
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:30:00Z",
+    "user_id": 122,
+    "session_id": "sess-011",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 13,
+        "name": "Mouse Gamer",
+        "category": "Accessories",
+        "price": 249.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "iOS"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:35:00Z",
+    "user_id": 119,
+    "session_id": "sess-003",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 3,
+        "name": "Notebook B",
+        "category": "Computers",
+        "price": 3500.0
+      },
+      {
+        "id": 1,
+        "name": "Smartphone A",
+        "category": "Electronics",
+        "price": 1200.0
+      },
+      {
+        "id": 10,
+        "name": "Controle X",
+        "category": "Gaming",
+        "price": 299.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "iOS"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:40:00Z",
+    "user_id": 104,
+    "session_id": "sess-004",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 14,
+        "name": "HD Externo",
+        "category": "Storage",
+        "price": 399.0
+      },
+      {
+        "id": 7,
+        "name": "Camera X",
+        "category": "Photography",
+        "price": 2999.0
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:45:00Z",
+    "user_id": 104,
+    "session_id": "sess-012",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 15,
+        "name": "Pen Drive",
+        "category": "Storage",
+        "price": 59.9
+      },
+      {
+        "id": 5,
+        "name": "Tablet Z",
+        "category": "Electronics",
+        "price": 1800.0
+      },
+      {
+        "id": 12,
+        "name": "Teclado Mecânico",
+        "category": "Accessories",
+        "price": 459.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "Android"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:50:00Z",
+    "user_id": 115,
+    "session_id": "sess-001",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 8,
+        "name": "Drone Z",
+        "category": "Drones",
+        "price": 4500.0
+      },
+      {
+        "id": 13,
+        "name": "Mouse Gamer",
+        "category": "Accessories",
+        "price": 249.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Linux"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "event_time": "2025-06-01T10:55:00Z",
+    "user_id": 108,
+    "session_id": "sess-004",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 15,
+        "name": "Pen Drive",
+        "category": "Storage",
+        "price": 59.9
+      },
+      {
+        "id": 14,
+        "name": "HD Externo",
+        "category": "Storage",
+        "price": 399.0
+      },
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      }
+    ],
+    "device": {
+      "type": "tablet",
+      "os": "Android"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:00:00Z",
+    "user_id": 120,
+    "session_id": "sess-015",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 7,
+        "name": "Camera X",
+        "category": "Photography",
+        "price": 2999.0
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:05:00Z",
+    "user_id": 128,
+    "session_id": "sess-013",
+    "event_type": "purchase",
+    "products": [
+      {
+        "id": 4,
+        "name": "Smartwatch C",
+        "category": "Wearables",
+        "price": 999.0
+      },
+      {
+        "id": 5,
+        "name": "Tablet Z",
+        "category": "Electronics",
+        "price": 1800.0
+      },
+      {
+        "id": 12,
+        "name": "Teclado Mecânico",
+        "category": "Accessories",
+        "price": 459.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "Android"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Porto Alegre"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:10:00Z",
+    "user_id": 124,
+    "session_id": "sess-012",
+    "event_type": "cart_view",
+    "products": [
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      },
+      {
+        "id": 5,
+        "name": "Tablet Z",
+        "category": "Electronics",
+        "price": 1800.0
+      },
+      {
+        "id": 3,
+        "name": "Notebook B",
+        "category": "Computers",
+        "price": 3500.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "Android"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:15:00Z",
+    "user_id": 101,
+    "session_id": "sess-009",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 4,
+        "name": "Smartwatch C",
+        "category": "Wearables",
+        "price": 999.0
+      }
+    ],
+    "device": {
+      "type": "desktop",
+      "os": "Windows"
+    },
+    "location": {
+      "country": "USA",
+      "city": "New York"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:20:00Z",
+    "user_id": 126,
+    "session_id": "sess-005",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 4,
+        "name": "Smartwatch C",
+        "category": "Wearables",
+        "price": 999.0
+      }
+    ],
+    "device": {
+      "type": "mobile",
+      "os": "iOS"
+    },
+    "location": {
+      "country": "Mexico",
+      "city": "Monterrey"
+    }
+  },
+  {
+    "event_time": "2025-06-01T11:25:00Z",
+    "user_id": 130,
+    "session_id": "sess-009",
+    "event_type": "product_view",
+    "products": [
+      {
+        "id": 2,
+        "name": "Fone de Ouvido",
+        "category": "Accessories",
+        "price": 199.9
+      }
+    ],
+    "device": {
+      "type": "console",
+      "os": "Proprietary"
+    },
+    "location": {
+      "country": "Brazil",
+      "city": "Porto Alegre"
+    }
+  }
+]
