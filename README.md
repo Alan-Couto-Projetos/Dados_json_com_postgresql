@@ -77,7 +77,7 @@ Abra seu navegador e vá para: http://localhost:8888
       "country": "Mexico",
       "city": "Monterrey"
     }
-  },...]<pre> <code>
+  },...]</code> </pre>
 
 ## Aprendizados
 
