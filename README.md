@@ -37,7 +37,7 @@ Instale normalmente
 
 Clone o repositório:
 
-git clone link git cd docker.
+git clone https://github.com/Alan-Couto-Projetos/Dados_json_com_postgresql cd docker
 Ou baixe o projeto como .zip e extraia os arquivos.
 
 Configure o arquivo .env:
