@@ -55,7 +55,7 @@ Abra seu navegador e vá para: http://localhost:8888
 
 ## Estrutura dos Dados
 
-[
+<pre> <code>[
   {
     "event_time": "2025-06-01T09:00:00Z",
     "user_id": 113,
@@ -77,7 +77,7 @@ Abra seu navegador e vá para: http://localhost:8888
       "country": "Mexico",
       "city": "Monterrey"
     }
-  },...]
+  },...]<pre> <code>
 
 ## Aprendizados
 
