@@ -114,4 +114,5 @@ Utilizei variáveis de ambiente para manter segredos fora do código, melhorando
 
 ## Autor
 Alan Couto
+
 Linkedin: https://www.linkedin.com/in/alan-couto-6767b0ab/
