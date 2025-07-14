@@ -18,11 +18,7 @@ services:
       - "8888:8888"
     volumes:
       - .:/app
-      # - ../data:/data
-      # - ../data:/home/jovyan/data
       - ../data:/home/jovyan/data
-      # - ./notebooks:/home/jovyan/work
-      # - ../.env:/home/jovyan/.env
     environment:
       - PYSPARK_SUBMIT_ARGS=--jars /opt/spark/jars/postgresql-42.7.3.jar pyspark-shell
     depends_on:
